@@ -150,7 +150,7 @@ Relubricate the Element III Mk 2 volume knob.
       <h3 class="repair-step-title">Apply Grease to the Knob</h3>
     </div>
     <ul>
-      <li>Using a syringe, lightly apply grease to the lower portion of the knob shaft</li>
+      <li>Using a syringe, apply a thin coat of silicon grease to the shaft, especially along the spring. We recommend <a href="https://www.amazon.com/dp/B000XBH9HI" target="_blank" rel="noopener noreferrer">Super Lube Part No. 21030</a>.</li>
     </ul>
   </div>
 </div>
