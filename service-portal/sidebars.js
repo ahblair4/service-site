@@ -77,6 +77,7 @@ const sidebars = {
       },
       items: [
         'atom-phono/manuals',
+        'atom-phono/knob-position',
       ],
     },
     // {

@@ -44,14 +44,14 @@ const products = [
     guideCount: 1,
     image: '/img/products/atom-amp-plus.jpg',
   },
-  // {
-  //   name: 'Atom Phono',
-  //   slug: '/products/atom-phono',
-  //   docsSlug: '/atom-phono',
-  //   description: 'Phono preamp & tone control',
-  //   guideCount: 0,
-  //   image: '/img/products/atom-phono.jpg',
-  // },
+  {
+    name: 'Atom Phono',
+    slug: '/products/atom-phono',
+    docsSlug: '/atom-phono',
+    description: 'Phono preamp & tone control',
+    guideCount: 1,
+    image: '/img/products/atom-phono.jpg',
+  },
   // {
   //   name: 'Synapse / Synapse Max',
   //   slug: '/products/synapse',

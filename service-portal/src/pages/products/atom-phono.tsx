@@ -3,10 +3,10 @@ import ProductPage from '@site/src/components/ProductPage';
 
 const guides = [
   {
-    title: 'Manuals',
-    slug: '/atom-phono/manuals',
-    description: 'Complete specifications and reference documentation.',
-    icon: '📖',
+    title: 'Knob Adjustment',
+    slug: '/atom-phono/knob-position',
+    description: 'How to adjust the EQ knobs.',
+    icon: '🔧',
   },
 ];
 

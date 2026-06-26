@@ -9,17 +9,19 @@ This website is built using [Docusaurus 2](https://docusaurus.io/), a modern sta
 
 > The original Docusaurus template assumes yarn, but every command below works with npm. Substitute `yarn <cmd>` for `npm run <cmd>` (or `npm <cmd>` where noted) if you prefer yarn.
 
-> **Working directory:** all commands below must be run from `service-portal/` (this folder), not from the repository root. From the repo root, start with `cd service-portal`.
+> **Working directory:** all commands below must be run from `service-portal/` (this folder), **not** from the repository root. The repo root has no `package.json`, so running `npm install` / `npm start` there fails with `Missing script: "start"` (and `npm install` silently installs nothing useful). Always `cd service-portal` first.
 
 ### Installation
 
 ```
+$ cd service-portal
 $ npm install
 ```
 
 ### Local Development
 
 ```
+$ cd service-portal
 $ npm start
 ```
 
