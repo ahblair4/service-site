@@ -33,7 +33,7 @@ const products = [
     slug: '/products/atom-amp-2',
     docsSlug: '/atom-amp-2',
     description: 'Desktop headphone amplifier',
-    guideCount: 1,
+    guideCount: 2,
     image: '/img/products/atom-amp-2.jpg',
   },
   {

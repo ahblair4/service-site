@@ -9,6 +9,14 @@ const guides = [
   //   icon: '📖',
   // },
   {
+    title: 'Knob Repair',
+    slug: '/atom-amp-2/knob-repair',
+    description: 'Step-by-step guide to replace or repair the volume knob.',
+    difficulty: 'Easy' as const,
+    time: '5 min',
+    icon: '🔧',
+  },
+  {
     title: 'Main Board Replacement',
     slug: '/atom-amp-2/board-swap',
     description: 'Replace the main board in your Atom Amp 2.',

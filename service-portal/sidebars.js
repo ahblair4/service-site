@@ -53,6 +53,7 @@ const sidebars = {
       },
       items: [
         'atom-amp-2/manuals',
+        'atom-amp-2/knob-repair',
         'atom-amp-2/board-swap',
       ],
     },
