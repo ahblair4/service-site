@@ -3,8 +3,8 @@
 Replace or repair the Atom Amp 2 volume knob.
 
 **Difficulty:** Easy  
-**Time:** 5 minutes  
-**Tools:** Hex key (Allen wrench)
+**Time:** 1 minute  
+**Tools:** 1/16" hex head driver
 
 ---
 

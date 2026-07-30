@@ -13,7 +13,7 @@ const guides = [
     slug: '/atom-amp-2/knob-repair',
     description: 'Step-by-step guide to replace or repair the volume knob.',
     difficulty: 'Easy' as const,
-    time: '5 min',
+    time: '1 min',
     icon: '🔧',
   },
   {
